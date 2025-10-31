@@ -5,6 +5,12 @@
       "password": "roow25",
       "createdAt": "2025-10-30T12:14:04.930Z",
       "expireTime": "9999"
+    },
+    {
+      "username": "fizz",
+      "password": "fizz25",
+      "createdAt": "2025-10-31T06:20:33.471Z",
+      "expireTime": "9999"
     }
   ]
 }
